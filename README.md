@@ -1,7 +1,8 @@
-# Firebase Studio
+##  QRCode_Secure
+###  Runing command:
+ * npm install
+ * npm run dev
 
-This is a NextJS starter in Firebase Studio.
+## Live Demo 
 
-To get started, take a look at src/app/page.tsx.
-
-# Live Demo 
+https://qrcode-secure.onrender.com/

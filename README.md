@@ -1,5 +1,5 @@
 ##  QRCode_Secure
-###  Runing command:
+###  Runing command:     
  * npm install
  * npm run dev
 

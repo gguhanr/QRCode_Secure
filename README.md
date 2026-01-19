@@ -3,6 +3,6 @@
  * npm install
  * npm run dev
 
-## Live Demo 
+## Live Demo    
 
 https://qrcode-secure.onrender.com/
